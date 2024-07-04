@@ -1,0 +1,1 @@
+Ceci est le point temporel 7 du canal 1 (canal des noyaux) de [Ozpolat, B. et al](https://doi.org/10.5281/zenodo.1063531) sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)

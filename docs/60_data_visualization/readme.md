@@ -1,0 +1,3 @@
+# Visualisation des données
+
+Après l'extraction, le tracé et l'analyse des mesures de caractéristiques à l'aide de statistiques descriptives, la visualisation des mesures dans le système de coordonnées et l'espace de l'image brute peut être utile pour mieux comprendre l'organisation spatiale des cellules et des tissus. Dans ce chapitre, nous allons apprendre des méthodes pour visualiser les mesures dans le même espace que nos données brutes, en superposition et côte à côte.

@@ -1,0 +1,2 @@
+# Simulation de données
+Pour explorer les algorithmes de traitement d'images et en particulier pour mesurer leur efficacité à résoudre les tâches pour lesquelles ils ont été conçus, il est très pertinent de simuler des jeux de données. Dans ce chapitre, nous allons simuler des images de cellules, de membranes et de noyaux, et donner des exemples de la façon dont celles-ci peuvent nous aider à mieux comprendre ce que font réellement les algorithmes.
