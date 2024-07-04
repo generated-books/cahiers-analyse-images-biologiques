@@ -3,7 +3,7 @@
 
 This repository contains a collection of Python Jupyter notebooks explaining bio-image analysis to a broad audience, focusing on life-scientists working with three dimensional fluorescence microscopy for analyzing cells and tissues. The content is available at
 
-https://haesleinhuepf.github.io/BioImageAnalysisNotebooks
+https://generated-books.github.io/cahiers-analyse-images-biologiques
 
 It is maintained using [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/) and build using [Jupyter book](https://jupyterbook.org/intro.html).
 
