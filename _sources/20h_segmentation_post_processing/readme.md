@@ -1,0 +1,3 @@
+# Post-traitement de la segmentation
+
+Dans ce chapitre, nous allons post-traiter les résultats de la segmentation. Cela comprend le filtrage des objets étiquetés selon leurs propriétés, la fusion des étiquettes à l'aide d'annotations manuelles et d'apprentissage automatique, ainsi que la réduction des étiquettes à leurs centroïdes, leurs bordures, en assurant un étiquetage séquentiel, ou en les divisant en bords intérieurs et extérieurs.
